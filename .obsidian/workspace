@@ -7,8 +7,12 @@
         "id": "68eac25226e7d7a6",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "test.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "test.md"
+              }
             }
           },
           {
@@ -139,6 +147,7 @@
   },
   "active": "68eac25226e7d7a6",
   "lastOpenFiles": [
+    "test.md",
     "2022-01-06.md",
     "Coontec/projects/사이벨리움/네트워크 이슈 - networkless.md",
     "Coontec/projects/Untitled Kanban.md",
@@ -147,7 +156,6 @@
     "Coontec/projects/test weekly.md",
     "Coontec/projects/test procj.md",
     "Coontec/weekly/2022-W01.md",
-    "Day Planners/20220102.md",
-    "Day Planners/20220101.md"
+    "Day Planners/20220102.md"
   ]
 }
