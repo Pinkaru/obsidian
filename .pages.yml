@@ -1,6 +1,6 @@
 media: media
 content:
-  - name: posts
+  - name: obsidian
     label: Posts
     type: collection
     path: 'Pinkaru'
