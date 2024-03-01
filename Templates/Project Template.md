@@ -1,8 +1,4 @@
----
-title: {{title}}
-created: {{date}} {{time}}
-tag: 'project' 
---- 
+
 # PM-projectname 
 ## 🏆 Goal 
 > 프로젝트의 목표를 작성한다. 
