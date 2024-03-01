@@ -1,7 +1,4 @@
----
-title: <% tp.file.title %> 
-created: <% tp.file.creation_date() %> tag: 'project' 
---- 
+
 # PM-projectname 
 ## 🏆 Goal 
 > 프로젝트의 목표를 작성한다. 
