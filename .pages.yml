@@ -3,7 +3,7 @@ content:
   - name: obsidian
     label: Posts
     type: collection
-    path: 'Pinkaru'
+    path: 'Templates'
     view:
       fields: [ title, published, date ]
     fields:
